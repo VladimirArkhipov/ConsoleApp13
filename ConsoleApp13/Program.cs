@@ -14,6 +14,7 @@ namespace ConsoleApp13
             {
                 ConsoleKeyInfo key = Console.ReadKey(true);
                 Console.WriteLine((byte)key.KeyChar);
+                //лох
             }
         }
     }
